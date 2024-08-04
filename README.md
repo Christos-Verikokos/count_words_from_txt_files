@@ -18,7 +18,7 @@ Steps:
 Create a file containing file paths:
 Create a text file (e.g., paths.txt) and list the paths of several text files to search within.
 Write the program:
-Read the list of file paths from the default paths.txt file or given by user.
+Read the list of books' file paths from the default paths.txt file or given by user.
 Prompt the user to enter words to search for.
 For each word, open each file and search for the word within the file.
 Print the name of the file and the lines containing the word.
