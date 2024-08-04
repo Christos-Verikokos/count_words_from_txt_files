@@ -42,7 +42,7 @@ def main_file(container_filename='/Users/macbook/Documents/python projects/pcc d
     try:
         contents_pathsfile = pathsfile.read_text(encoding='utf-8')
     except FileNotFoundError:
-        print("The file is not exist. You you can't go to the next step")
+        print("The file is not exist. You can't go to the next step")
         return False
     else:
         return contents_pathsfile.splitlines()
