@@ -1,7 +1,7 @@
 # count_words_from_txt_files
 Search for user-specified words within the contents of files, using paths provided in a specified list file.
 
-Improve exercise 10-10 from "Python crash course" book:
+Improve exercise "10-10. Common Words" from "Python crash course" book p.200:
 Searching for Specific Words in Multiple Files
 Description:
 
